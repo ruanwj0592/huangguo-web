@@ -53,6 +53,9 @@ const MIRRORS = [
   "https://hgai5.com",
   "https://huangguo10.com",
   "https://huangguo9.com",
+  "hqcvr.jxqgmx5ga.cc",
+  "jkn5u.jxqgmx5ga.cc",
+  "f6x0k9.jxqgmx5ga.cc",
 ];
 
 // 死域后缀 (已整池失效) 与推广/宣传域 (播放会落到官方宣传物料)
